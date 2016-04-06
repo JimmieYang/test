@@ -1,7 +1,7 @@
 # Java class files
 *.class
 
-# generated filesasdfas
+# generated file
 bin/
 gen/
 
@@ -34,3 +34,5 @@ obj/
 *.ipr
 *~
 *.swp
+
+aaaaaaaa
