@@ -1,2 +1,10 @@
+<<<<<<< HEAD
 asdfasdf   sdfasdfasd
 commit
+=======
+
+asdfasdf   sdfasdfasd
+
+
+hufenqiang
+>>>>>>> aa416860d61deb8c9f72729d349a16fd14aa2dd1
